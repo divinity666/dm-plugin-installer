@@ -20,8 +20,6 @@ sample call won't install anything.
 
 ## Projects using this installer
 
-* https://github.com/divinity666/MyAmazonPrimeDream
-
 ## Licensing
 
 The code in this project is licensed under MIT license.
